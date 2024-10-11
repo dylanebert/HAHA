@@ -110,6 +110,8 @@ Or [Download all](https://drive.google.com/drive/folders/1lsgk1Mtq_WWi9sFn-Mc7UH
 
 </details>
 
+Also available for download on [Hugging Face](https://huggingface.co/datasets/dylanebert/HAHA).
+
 ### Render 
 To generate an animation with an avatar, use the following command:
 
